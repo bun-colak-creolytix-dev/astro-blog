@@ -2,7 +2,7 @@
 tags: ["tanstack-start", "turso", "upstash", "typescript", "react", "drizzle"]
 title: Secret Santa and new tech fun
 description: Building a Secret Santa app with TanStack Start, Turso, and Upstash - exploring modern full-stack development
-pubDatetime: 2025-11-30
+pubDatetime: 2025-11-29
 ---
 
 It all began when my friends and I decided to do our annual Secret Santa. But now that we're all adults, having all of us in a room necessitates a lot of scheduling, which none of us can do. We therefore decided to conduct our Secret Santa drawings online. __We were all too lazy to look for an app or website to accomplish it, so I thought I could waste my Sunday afternoon creating one.__ Why not?
