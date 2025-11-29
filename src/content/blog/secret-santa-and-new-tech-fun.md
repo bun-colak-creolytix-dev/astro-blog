@@ -83,7 +83,7 @@ Overall, it was a **pleasant day**.
 
 ## Links & Resources
 
-- [Live App](https://santa.buncolakc.om)
+- [Live App](https://santa.buncolak.com)
 - [GitHub Repository](https://github.com/bun-colak-creolytix-dev/secret-santa)
 - [TanStack Start Docs](https://tanstack.com/start)
 - [Turso Docs](https://docs.turso.tech)
